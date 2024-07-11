@@ -18,5 +18,12 @@ console.log(valueInNumber1);
 console.log(typeof (valueInNumber1));
 // funny this is that NaN type is a number lol!
 
+// ******************Operations******************
 
+let value=3
+let negValue=-value
+console.log(negValue);
 
+let str1="hello"
+let str2=" hitesh"
+let str3=str1+str2
